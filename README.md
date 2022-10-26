@@ -5,7 +5,7 @@
 
 ###
 
-<p>Enter keyTeknikInformatika
+Enter keyTeknikInformatika
 
  1.Encryption
  2.Decryption:
